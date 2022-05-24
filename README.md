@@ -4,10 +4,9 @@
 
 ## Usage
 
-On Windows
+On Windows, e.g.
 
 ```sh
-python update_elvui.py -w <World of Warcraft Path>
 python update_elvui.py -w "D:\World of Warcraft\"
 ```
 
